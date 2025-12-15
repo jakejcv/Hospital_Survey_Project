@@ -1,0 +1,84 @@
+Survey_id,Survey_Question,Answer_Description,Patient_Survey_Star_Rating_Footnote
+1,"Patients who reported that their room and bathroom were ""Always"" clean","Room was ""always"" clean",NULL
+2,"Patients who reported that their room and bathroom were ""Sometimes"" or ""Never"" clean","Room was ""sometimes"" or ""never"" clean",NULL
+3,"Patients who reported that their room and bathroom were ""Usually"" clean","Room was ""usually"" clean",NULL
+4,Cleanliness - linear mean score,Cleanliness - linear mean score,NULL
+5,Cleanliness - star rating,Cleanliness - star rating,NULL
+6,"Patients who reported that their nurses ""Always"" communicated well","Nurses ""always"" communicated well",NULL
+7,Nurse communication - linear mean score,Nurse communication - linear mean score,NULL
+8,"Patients who reported that their nurses ""Sometimes"" or ""Never"" communicated well","Nurses ""sometimes"" or ""never"" communicated well",NULL
+9,Nurse communication - star rating,Nurse communication - star rating,NULL
+10,"Patients who reported that their nurses ""Usually"" communicated well","Nurses ""usually"" communicated well",NULL
+11,"Patients who reported that their doctors ""Always"" communicated well","Doctors ""always"" communicated well",NULL
+12,Doctor communication - linear mean score,Doctor communication - linear mean score,NULL
+13,"Patients who reported that their doctors ""Sometimes"" or ""Never"" communicated well","Doctors ""sometimes"" or ""never"" communicated well",NULL
+14,Doctor communication - star rating,Doctor communication - star rating,NULL
+15,"Patients who reported that their doctors ""Usually"" communicated well","Doctors ""usually"" communicated well",NULL
+16,"Patients who reported that they ""Always"" received help as soon as they wanted","Patients ""always"" received help as soon as they wanted",NULL
+17,Staff responsiveness - linear mean score,Staff responsiveness - linear mean score,NULL
+18,"Patients who reported that they ""Sometimes"" or ""Never"" received help as soon as they wanted","Patients ""sometimes"" or ""never"" received help as soon as they wanted",NULL
+19,Staff responsiveness - star rating,Staff responsiveness - star rating,NULL
+20,"Patients who reported that they ""Usually"" received help as soon as they wanted","Patients ""usually"" received help as soon as they wanted",NULL
+21,"Patients who reported that staff ""Always"" explained about medicines before giving it to them","Staff ""always"" explained",NULL
+22,Communication about medicines - linear mean score,Communication about medicines - linear mean score,NULL
+23,"Patients who reported that staff ""Sometimes"" or ""Never"" explained about medicines before giving it to them","Staff ""sometimes"" or ""never"" explained",NULL
+24,Communication about medicines - star rating,Communication about medicines - star rating,NULL
+25,"Patients who reported that staff ""Usually"" explained about medicines before giving it to them","Staff ""usually"" explained",NULL
+26,Discharge information - linear mean score,Discharge information - linear mean score,NULL
+27,"Patients who reported that NO, they were not given information about what to do during their recovery at home","No, staff ""did not"" give patients this information",NULL
+28,Discharge information - star rating,Discharge information - star rating,NULL
+29,"Patients who reported that YES, they were given information about what to do during their recovery at home","Yes, staff ""did"" give patients this information",NULL
+30,"Patients who ""Agree"" they understood their care when they left the hospital","Patients who ""Agree"" they understood their care when they left the hospital",NULL
+31,"Patients who ""Disagree"" or ""Strongly Disagree"" they understood their care when they left the hospital","Patients who ""Disagree"" or ""Strongly Disagree"" they understood their care when they left the hospital",NULL
+32,Care transition - linear mean score,Care transition - linear mean score,NULL
+33,"Patients who ""Strongly Agree"" they understood their care when they left the hospital","Patients who ""Strongly Agree"" they understood their care when they left the hospital",NULL
+34,Care transition - star rating,Care transition - star rating,NULL
+35,Patients who gave their hospital a rating of 6 or lower on a scale from 0 (lowest) to 10 (highest),"Patients who gave a rating of ""6"" or lower (low)",NULL
+36,Patients who gave their hospital a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest),"Patients who gave a rating of ""7"" or ""8"" (medium)",NULL
+37,Patients who gave their hospital a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest),"Patients who gave a rating of ""9"" or ""10"" (high)",NULL
+38,Overall hospital rating - linear mean score,Overall hospital rating - linear mean score,NULL
+39,Overall hospital rating - star rating,Overall hospital rating - star rating,NULL
+40,"Patients who reported that the area around their room was ""Always"" quiet at night","""Always"" quiet at night",NULL
+41,"Patients who reported that the area around their room was ""Sometimes"" or ""Never"" quiet at night","""Sometimes"" or ""never"" quiet at night",NULL
+42,"Patients who reported that the area around their room was ""Usually"" quiet at night","""Usually"" quiet at night",NULL
+43,Quietness - linear mean score,Quietness - linear mean score,NULL
+44,Quietness - star rating,Quietness - star rating,NULL
+45,"Patients who reported NO, they would probably not or definitely not recommend the hospital","""NO"", patients would not recommend the hospital (they probably would not or definitely would not recommend it)",NULL
+46,"Patients who reported YES, they would definitely recommend the hospital","""YES"", patients would definitely recommend the hospital",NULL
+47,Recommend hospital - linear mean score,Recommend hospital - linear mean score,NULL
+48,"Patients who reported YES, they would probably recommend the hospital","""YES"", patients would probably recommend the hospital",NULL
+49,Recommend hospital - star rating,Recommend hospital - star rating,NULL
+50,Summary star rating,Summary star rating,NULL
+51,Cleanliness - star rating,Cleanliness - star rating,15 - The number of cases/patients is too few to report a star rating.
+52,Nurse communication - star rating,Nurse communication - star rating,15 - The number of cases/patients is too few to report a star rating.
+53,Doctor communication - star rating,Doctor communication - star rating,15 - The number of cases/patients is too few to report a star rating.
+54,Staff responsiveness - star rating,Staff responsiveness - star rating,15 - The number of cases/patients is too few to report a star rating.
+55,Communication about medicines - star rating,Communication about medicines - star rating,15 - The number of cases/patients is too few to report a star rating.
+56,Discharge information - star rating,Discharge information - star rating,15 - The number of cases/patients is too few to report a star rating.
+57,Care transition - star rating,Care transition - star rating,15 - The number of cases/patients is too few to report a star rating.
+58,Overall hospital rating - star rating,Overall hospital rating - star rating,15 - The number of cases/patients is too few to report a star rating.
+59,Quietness - star rating,Quietness - star rating,15 - The number of cases/patients is too few to report a star rating.
+60,Recommend hospital - star rating,Recommend hospital - star rating,15 - The number of cases/patients is too few to report a star rating.
+61,Summary star rating,Summary star rating,15 - The number of cases/patients is too few to report a star rating.
+62,Cleanliness - star rating,Cleanliness - star rating,5 - Results are not available for this reporting period.
+63,Nurse communication - star rating,Nurse communication - star rating,5 - Results are not available for this reporting period.
+64,Doctor communication - star rating,Doctor communication - star rating,5 - Results are not available for this reporting period.
+65,Staff responsiveness - star rating,Staff responsiveness - star rating,5 - Results are not available for this reporting period.
+66,Communication about medicines - star rating,Communication about medicines - star rating,5 - Results are not available for this reporting period.
+67,Discharge information - star rating,Discharge information - star rating,5 - Results are not available for this reporting period.
+68,Care transition - star rating,Care transition - star rating,5 - Results are not available for this reporting period.
+69,Overall hospital rating - star rating,Overall hospital rating - star rating,5 - Results are not available for this reporting period.
+70,Quietness - star rating,Quietness - star rating,5 - Results are not available for this reporting period.
+71,Recommend hospital - star rating,Recommend hospital - star rating,5 - Results are not available for this reporting period.
+72,Summary star rating,Summary star rating,5 - Results are not available for this reporting period.
+73,Cleanliness - star rating,Cleanliness - star rating,19 - Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.
+74,Nurse communication - star rating,Nurse communication - star rating,19 - Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.
+75,Doctor communication - star rating,Doctor communication - star rating,19 - Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.
+76,Staff responsiveness - star rating,Staff responsiveness - star rating,19 - Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.
+77,Communication about medicines - star rating,Communication about medicines - star rating,19 - Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.
+78,Discharge information - star rating,Discharge information - star rating,19 - Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.
+79,Care transition - star rating,Care transition - star rating,19 - Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.
+80,Overall hospital rating - star rating,Overall hospital rating - star rating,19 - Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.
+81,Quietness - star rating,Quietness - star rating,19 - Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.
+82,Recommend hospital - star rating,Recommend hospital - star rating,19 - Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.
+83,Summary star rating,Summary star rating,19 - Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.

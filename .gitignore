@@ -1,0 +1,14 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Archives / backups
+archive/
+
+# Large binaries (optional but recommended)
+*.sqlite

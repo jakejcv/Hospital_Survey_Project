@@ -1,0 +1,5 @@
+state,avg_survey_response_rate
+CO,27.15
+AL,25.0
+AR,24.56
+All States Average,22.97
