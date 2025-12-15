@@ -29,28 +29,6 @@ Tableau: dashboards and exploratory visualizations
 
 Git/GitHub: version control and project organization
 
-Project Structure
-Hospital_Survey_Project/
-│
-├── Data/
-│   ├── Raw Data/                # Original source CSV
-│   └── Processed Data/          # Cleaned fact & dimension tables
-│
-├── Python/
-│   ├── load_raw_survey_data.py
-│   ├── export_fact_table.py
-│   ├── compute_survey_correlations.py
-│   └── load_csv_to_sqlite.py
-│
-├── SQL/
-│   └── build_dimensions.sql
-│
-├── Tableau/
-│   └── survey project graphs.twb
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
 
 Data Pipeline
 
