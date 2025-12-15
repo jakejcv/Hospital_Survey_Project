@@ -7,26 +7,22 @@ The project demonstrates real-world data cleaning, dimensional modeling, statist
 
 Key Objectives
 
-Clean and standardize raw patient survey data
+- Clean and standardize raw patient survey data
 
-Design dimension and fact tables for analysis
+- Design dimension and fact tables for analysis
 
-Model expected hospital performance using multiple survey dimensions
+- Model expected hospital performance using multiple survey dimensions
 
-Identify hospitals that over- or under-perform relative to expectations
+- Identify hospitals that over- or under-perform relative to expectations
 
-Prepare outputs for business-friendly visualization in Tableau
+- Prepare outputs for business-friendly visualization in Tableau
 
-Tech Stack
+Tech Stack:
 
 Python: pandas, numpy, statsmodels
-
 SQL: dimensional modeling, table creation
-
 SQLite: lightweight analytics database
-
 Tableau: dashboards and exploratory visualizations
-
 Git/GitHub: version control and project organization
 
 
