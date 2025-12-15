@@ -20,55 +20,59 @@ Key Objectives
 Tech Stack:
 
 Python: pandas, numpy, statsmodels
+
 SQL: dimensional modeling, table creation
+
 SQLite: lightweight analytics database
+
 Tableau: dashboards and exploratory visualizations
+
 Git/GitHub: version control and project organization
 
 
-Data Pipeline
+Data Pipeline:
 
 Raw ingestion
 
-Load raw hospital survey CSV data
+- Load raw hospital survey CSV data
 
-Handle missing values, inconsistent data types, and invalid entries
+- Handle missing values, inconsistent data types, and invalid entries
 
 Data cleaning & standardization
 
-Convert string-based numeric fields to proper numeric types
+- Convert string-based numeric fields to proper numeric types
 
-Normalize survey scores and response counts
+- Normalize survey scores and response counts
 
-Remove or flag low-response hospitals where appropriate
+- Remove or flag low-response hospitals where appropriate
 
 Dimensional modeling
 
-Create dimension tables (hospital, measure, survey, geography)
+- Create dimension tables (hospital, measure, survey, geography)
 
-Build a centralized fact table for survey results
+- Build a centralized fact table for survey results
 
 Statistical modeling
 
-Fit a multivariate linear regression model to predict expected overall scores
+- Fit a multivariate linear regression model to predict expected overall scores
 
-Compute residuals to quantify over- and under-performance
+- Compute residuals to quantify over- and under-performance
 
 Analytics outputs
 
-Export cleaned datasets and model results
+- Export cleaned datasets and model results
 
-Visualize patterns and outliers in Tableau
+- Visualize patterns and outliers in Tableau
 
 Key Outputs
 
-fact_survey.csv – centralized survey fact table
+- fact_survey.csv – centralized survey fact table
 
-hospital_performance_cleaned.csv – modeled hospital performance with residuals
+- hospital_performance_cleaned.csv – modeled hospital performance with residuals
 
-hospital_over_underperformance.csv – performance classification
+- hospital_over_underperformance.csv – performance classification
 
-survey project graphs.twb – Tableau workbook with dashboards
+- survey project graphs.twb – Tableau workbook with dashboards
 
 How to Run
 # Create and activate virtual environment
